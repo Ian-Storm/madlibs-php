@@ -244,14 +244,6 @@ ul#menu li a:hover
   width: 200px; 
   text-align: left;}
   
-.form_settings input, .form_settings textarea
-{ padding: 5px; 
-  width: 299px; 
-  font: 100% arial; 
-  border: 1px solid #E5E5DB; 
-  background: #FFF; 
-  color: #47433F;}
-  
 .form_settings .submit
 { font: 100% arial; 
   border: 0; 
@@ -307,4 +299,8 @@ li{
   margin-left: 10px;
   display: inline-block;
   font-size: 20px;
+}
+
+input{
+  
 }
